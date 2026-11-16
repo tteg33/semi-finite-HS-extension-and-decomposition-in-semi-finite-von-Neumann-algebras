@@ -1,0 +1,1 @@
+This project aims to prove a schur like decomposition theorem for semi finite von Neumann algebra, proof sketch relies on extending the classical Haagerup-Schultz theorem from type II-1 to a semi finite setting. LLM assited WIP.
